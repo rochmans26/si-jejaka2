@@ -9,5 +9,10 @@
 <body>
   <h1>Hello World</h1>
   <p>This is paragraph</p>
+  <ul>
+    <li>Ini Budi</li>
+    <li>Ini Widi</li>
+    <li>Ini Tio</li>
+  </ul>
 </body>
 </html>
